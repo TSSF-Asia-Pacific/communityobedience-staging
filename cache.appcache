@@ -1,0 +1,16 @@
+CACHE MANIFEST
+
+# Version 2022-03-07 11:44
+
+CACHE:
+https://code.jquery.com/jquery-3.0.0.js
+moment.min.js
+css/tssf.css
+bootstrap-3.1.1-dist/css/bootstrap.min.css
+images/paper.gif
+images/AppleIcon.png
+images/Icon.png
+images/golden-paper.jpg
+
+NETWORK:
+*
